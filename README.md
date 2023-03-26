@@ -19,16 +19,16 @@
 
 #### 📊 R Data Analysis/Visualization Libraries:
 ![dplyr](https://img.shields.io/badge/dplyr-E74C3C?style=flat&logoColor=white)
-![ggplot2](https://img.shields.io/badge/numpy-16A085?style=flat&logoColor=white)
-![glmmTMB](https://img.shields.io/badge/Matplotlib-5DADE2?style=flat&logoColor=black)
-![lme4](https://img.shields.io/badge/Plotly-AAB7B8?style=flat&logoColor=white)
-![DHARMa](https://img.shields.io/badge/Plotly-F4D03F?style=flat&logoColor=white)
-![emmeans](https://img.shields.io/badge/Plotly-5499C7?style=flat&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-16A085?style=flat&logoColor=white)
+![glmmTMB](https://img.shields.io/badge/glmmTMB-5DADE2?style=flat&logoColor=black)
+![lme4](https://img.shields.io/badge/lme4-AAB7B8?style=flat&logoColor=white)
+![DHARMa](https://img.shields.io/badge/DHARMa-F4D03F?style=flat&logoColor=white)
+![emmeans](https://img.shields.io/badge/emmeans-5499C7?style=flat&logoColor=white)
 
 #### 🤖 ML/DL frameworks
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
-![XGBoost](https://img.shields.io/badge/Plotly-3498DB?style=flat&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3498DB?style=flat&logoColor=white)
 
 
 #### 💫 Tools for Collaborative Development
