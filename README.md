@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarah 🍃
 
-I'm a Data Scientist with a background as a biology researcher. I have always being passionate about analysing data through different meanings, to uncover pattern and trends. During my career I have been responsible for all the phases of model development through Python and R. 
+I'm a Data Scientist with a background as a forest ecology researcher. I have always being passionate about analysing data through different meanings, to uncover pattern and trends. During my career I have been responsible for all the phases of model development through Python and R. 
 
 Other random things I love to do with my time: weight-lifting, reading, plant-parenting, and watercolour painting.
 
