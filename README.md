@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Sarah 🍃
+
+I'm a Data Scientist with a background as a biology researcher. I have always being passionate about analysing data through different meanings, to uncover pattern and trends. During my career I have been responsible for all the phases of model development through Python and R. 
+
+Other random things I love to do with my time: weight-lifting, reading, plant-parenting, and watercolour painting.
 
 ## Skills:
 
@@ -17,13 +21,13 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
-#### 📊 R Data Analysis/Visualization Libraries:
+#### 📊 R Data Analysis/Visualization Packages:
 ![dplyr](https://img.shields.io/badge/dplyr-E74C3C?style=flat&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-16A085?style=flat&logoColor=white)
 ![glmmTMB](https://img.shields.io/badge/glmmTMB-5DADE2?style=flat&logoColor=white)
-![lme4](https://img.shields.io/badge/lme4-AAB7B8?style=flat&logoColor=white)
-![DHARMa](https://img.shields.io/badge/DHARMa-F4D03F?style=flat&logoColor=white)
-![emmeans](https://img.shields.io/badge/emmeans-5499C7?style=flat&logoColor=white)
+![lme4](https://img.shields.io/badge/lme4-839192?style=flat&logoColor=white)
+![DHARMa](https://img.shields.io/badge/DHARMa-27AE60?style=flat&logoColor=white)
+![emmeans](https://img.shields.io/badge/emmeans-D4AC0D?style=flat&logoColor=white)
 
 #### 🤖 ML/DL frameworks
 
@@ -39,6 +43,6 @@
 
 #### 🏔️ IDEs
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-CA0E0E?style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
