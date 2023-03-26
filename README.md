@@ -4,9 +4,9 @@
 
 #### 🎨 Languages:
 
-![Python]<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"height="30"/>&nbsp;
+![Python] (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 #### 📊 Python Data Analysis/Visualization Libraries:
