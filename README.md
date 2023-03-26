@@ -1,4 +1,4 @@
-### Hi there, I'm Sarah 🍃
+<img src="./Banner.png" />
 
 I'm a Data Scientist with a background as a forest ecology researcher. I have always being passionate about analysing data through different meanings, to uncover pattern and trends. During my career I have been responsible for all the phases of model development through Python and R. 
 
@@ -46,3 +46,7 @@ Other random things I love to do with my time: weight-lifting, reading, plant-pa
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-CA0E0E?style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
+
+#### Contacts
+ 
+[<img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-serafini-264a6611b/)
