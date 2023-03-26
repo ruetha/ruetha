@@ -18,7 +18,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
 #### 📊 R Data Analysis/Visualization Libraries:
-![dplyr](https://img.shields.io/badge/dplyr-#F39C12?style=flat&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-F39C12?style=flat&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-45B39D?style=flat&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
