@@ -13,14 +13,14 @@
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-45B39D?style=flat&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-45B39D?style=flat&logo=Matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
 #### 📊 R Data Analysis/Visualization Libraries:
 ![dplyr](https://img.shields.io/badge/dplyr-E74C3C?style=flat&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-16A085?style=flat&logoColor=white)
-![glmmTMB](https://img.shields.io/badge/glmmTMB-5DADE2?style=flat&logoColor=black)
+![glmmTMB](https://img.shields.io/badge/glmmTMB-5DADE2?style=flat&logoColor=white)
 ![lme4](https://img.shields.io/badge/lme4-AAB7B8?style=flat&logoColor=white)
 ![DHARMa](https://img.shields.io/badge/DHARMa-F4D03F?style=flat&logoColor=white)
 ![emmeans](https://img.shields.io/badge/emmeans-5499C7?style=flat&logoColor=white)
