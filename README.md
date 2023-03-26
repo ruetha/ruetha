@@ -4,7 +4,7 @@
 
 #### 🎨 Languages:
 
-![Python] (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-1EB921?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
