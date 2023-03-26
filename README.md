@@ -8,10 +8,10 @@ Other random things I love to do with my time: weight-lifting, reading, plant-pa
 
 #### 🎨 Languages:
 
-![Python](https://img.shields.io/badge/Python-28B463?style=flat&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-1E8449?style=flat&logo=python&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-17202A?style=flat&logo=markdown&logoColor=white)
 
 #### 📊 Python Data Analysis/Visualization Libraries:
 
