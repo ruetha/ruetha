@@ -50,3 +50,8 @@ Other random things I love to do with my time: reading, weight-lifting, plant-pa
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-CA0E0E?style=flat&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
+
+#### GitHub Stats
+
+![ruetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruetha&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruetha&layout=compact&theme=tokyonight)](https://github.com/ruetha/github-readme-stats)
+
