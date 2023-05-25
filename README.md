@@ -7,6 +7,7 @@ Other random things I love to do with my time: reading, weight-lifting, plant-pa
 ### Contacts
  
 [<img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-serafini-264a6611b/)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=flat&logo=kaggle&logoColor=white" />](https://www.kaggle.com/sarahserafini)
 
 ## Skills:
 
