@@ -4,6 +4,8 @@ I'm a Data Scientist with a background as a forest ecology researcher. I have al
 
 Other random things I love to do with my time: reading, weight-lifting, plant-parenting, and watercolour painting.
 
+[Certified DataCamp Associate Data Scientist](https://www.datacamp.com/certificate/DSA0019931939948)
+
 ### Contacts
  
 [<img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarah-serafini-264a6611b/)
