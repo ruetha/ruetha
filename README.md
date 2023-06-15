@@ -1,6 +1,6 @@
 <img src="./Banner.png" />
 
-I'm a Data Scientist with a background as a forest ecology researcher. I have always being passionate about analysing data through different meanings, to uncover pattern and trends. During my career I have been responsible for all the phases of model development through Python and R. 
+I'm a Data Scientist with a background as a forest ecology researcher. My passion has always been analysing data using various meaningful approaches to uncover patterns and trends. During my career I have been responsible for all the phases of model development through Python and R. 
 
 Other random things I love to do with my time: reading, weight-lifting, plant-parenting, and watercolour painting.
 
