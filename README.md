@@ -38,7 +38,8 @@ Other random things I love to do with my time: reading, weight-lifting, plant-pa
 
 #### 🤖 ML/DL frameworks
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-e18247?&style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3498DB?style=flat&logoColor=white)
 
 
